@@ -6,4 +6,4 @@ When initially run, the script will read every file inside the Downloads folder 
 This is currently optimized to run on the Windows OS.
 
 ## To Run: ##
-Download the the download_sort.exe file and run.
+Download the folder and run the download_sort.exe file.
